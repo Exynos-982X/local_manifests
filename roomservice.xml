@@ -22,6 +22,7 @@
   <project name="Exynos-982X/android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" revision="14.0" remote="github"/>
   <project name="Exynos-982X/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" revision="14.0" remote="github"/>
   <project name="Exynos-982X/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" revision="14.0" remote="github"/>
+  <project name="Exynos-982X/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" revision="14.0" remote="github"/>
   <project name="Exynos-982X/android_hardware_samsung" path="hardware/samsung" revision="14.0" remote="github"/>
   <!-- Sepolicy -->
   <project name="Exynos-982X/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="14.0" remote="github" />
